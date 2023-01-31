@@ -72,6 +72,7 @@ int callback_command(void *p, unsigned int cmd, const void *buf, uint32_t len) {
 			return TinyVGM_OK;
 		default:
 			return TinyVGM_OK;
+	}
 }
 
 int callback_header(void *userp, TinyVGMHeaderField field, uint32_t value) {
