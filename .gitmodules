@@ -1,0 +1,3 @@
+[submodule "TinyVGM"]
+	path = TinyVGM
+	url = ../../SudoMaker/TinyVGM.git
